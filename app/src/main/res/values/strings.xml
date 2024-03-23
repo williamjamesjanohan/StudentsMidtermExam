@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StudentProfile</string>
+    <string name="add_student">Add Student</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="id_text">ID: %d</string>
+    <string name="name_text">Name: %s %s</string>
+    <string name="phone_text">Phone Number: %s</string>
+    <string name="student_record">%1$d. %2$s, %3$s</string>
+
+
+</resources>
